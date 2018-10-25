@@ -244,6 +244,7 @@ EntryStatic.getAllBlocks = function() {
         {
             category: "text",
             blocks: [
+                "text_read",
                 "text_write",
                 "text_append",
                 "text_prepend",
@@ -1513,6 +1514,7 @@ EntryStatic.ARROW_COLOR_START = '#2f975a';
 EntryStatic.ARROW_COLOR_FLOW = '#3a71bc';
 EntryStatic.ARROW_COLOR_MOVING = '#8641b6';
 EntryStatic.ARROW_COLOR_LOOKS = '#d8234e';
+EntryStatic.ARROW_COLOR_TEXT = '#dc9c32';
 EntryStatic.ARROW_COLOR_SOUNDS = '#83a617';
 EntryStatic.ARROW_COLOR_JUDGE = '#89a1f7';
 EntryStatic.ARROW_COLOR_CALC = '#e8b349';
